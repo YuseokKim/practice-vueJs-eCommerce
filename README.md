@@ -2,10 +2,10 @@
 
 
 ## 학습목표
-1. Vue.js 프레임워크
-2. 라이프사이클, 훅
+1. Vue.js 프레임워크에 대한 이해
+2. 라이프사이클, 훅 동작 원리
 3. 컴포넌트화에 따른 폴더 구조
-4. vue-router
+4. vue-router 동작 원리
 5. axios을 이용한 RESTFul API 통신
 6. webpack에 대한 이해
 
