@@ -1,21 +1,16 @@
-# test01
+# Vue.js 실습용 쇼핑몰 구축입니다.
 
-> test01
 
-## Build Setup
+## 학습목표
+1. Vue.js 프레임워크
+2. 라이프사이클, 훅
+3. 컴포넌트화에 따른 폴더 구조
+4. vue-router
+5. axios을 이용한 RESTFul API 통신
+6. webpack에 대한 이해
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 기술환경
+- vue, vuex, vue-router, webpack
+- 데이터 통신을 위한 별도의 서버 구축
+ * 서버기술스펙: Java(JDK 1.8), Springboot, JPA, AWS RDS, AWS S3, NGINX, CentOs 7
+- eCommerce 디자인(HTML, CSS 포함) 구매 (https://themeforest.net/item/porto-ecommerce-shop-template/22685562)
